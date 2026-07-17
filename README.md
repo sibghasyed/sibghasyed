@@ -1,25 +1,22 @@
-# Hi, I'm Sibgha 👋
+### Hi, I'm Sibgha! 👋
 
-## 💻 About Me
-I am a passionate web developer with experience in building dynamic and user-friendly applications. I enjoy working on real-world projects and continuously improving my development skills.
+Full Stack Developer passionate about building scalable web applications with Laravel & PHP. 🚀
 
-## 🚀 Skills
-- HTML
-- CSS
-- PHP
-- Laravel
+---
 
-## 📌 Projects
-- 🏥 Hospital Management System  
-- 🌍 Tourism Management System  
-- 💼 Portfolio Website  
-- 🚗 Tire Management System  
-- 💬 Forum Website  
-- 💄 Beauty Salon Management System  
+### 🛠 Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🎯 Currently Learning
-- Advanced Laravel Development
+---
 
-## 📫 Contact Me
-- Email: fatimasibgha331@gmail.com
-- GitHub: https://github.com/sibghasyed
+### 📊 GitHub Stats
+![Sibgha's Stats](https://github-readme-stats.vercel.app/api?username=sibghasyed&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sibghasyed&layout=compact&theme=radical)
+
+---
+
+### 📬 Let's Connect
+- LinkedIn: [linkedin.com/in/sibgha-fatima-08030224a/](https://www.linkedin.com/in/sibgha-fatima-08030224a/)
