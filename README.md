@@ -88,3 +88,11 @@ I enjoy turning messy requirements into clean, working code
 </a>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:2563EB&height=120&section=footer" width="100%"/>
+
+</div>
