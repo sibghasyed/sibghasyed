@@ -16,7 +16,9 @@
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=sibghasyed&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<a href="https://github.com/sibghasyed">
+  <img src="https://komarev.com/ghpvc/?username=sibghasyed&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+</a>
 
 <br/>
 
