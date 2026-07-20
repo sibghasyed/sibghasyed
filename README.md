@@ -1,5 +1,13 @@
 <div align="center">
 
+# Hi there, I'm Sibgha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="waving hand"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=220&section=header&text=Syeda%20Sibgha%20Fatima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20PHP%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/sibgha-fatima-08030224a/">
@@ -20,17 +28,31 @@
 
 ## 🚀 About Me
 
-<table>
+<p align="center">
+I specialize in building <b>scalable web applications</b> that bridge solid backend architecture with real business workflows. I care about clean, maintainable code, performance-conscious design, and shipping software that actually solves problems — not just ships features.
+</p>
+
+<br/>
+
+<table align="center" width="100%">
 <tr>
-<td>
-
-I specialize in building **scalable web applications** that bridge solid backend architecture with real business workflows. I care about clean, maintainable code, performance-conscious design, and shipping software that actually solves problems — not just ships features.
-
-- 🔭 Currently building full-stack apps with **Laravel**
-- 🌱 Deepening my expertise in **system design** and **API architecture**
-- 💬 Ask me about **Laravel, PHP, MySQL, or Bootstrap**
-- ⚡ Fun fact: I enjoy turning messy requirements into clean, working code
-
+<td width="50%" valign="top">
+<h4>🔭 &nbsp;Currently Building</h4>
+Full-stack apps with <b>Laravel</b>
+</td>
+<td width="50%" valign="top">
+<h4>🌱 &nbsp;Currently Deepening</h4>
+Expertise in <b>system design</b> &amp; <b>API architecture</b>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>💬 &nbsp;Ask Me About</h4>
+<b>Laravel</b>, <b>PHP</b>, <b>MySQL</b>, or <b>Bootstrap</b>
+</td>
+<td width="50%" valign="top">
+<h4>⚡ &nbsp;Fun Fact</h4>
+I enjoy turning messy requirements into clean, working code
 </td>
 </tr>
 </table>
