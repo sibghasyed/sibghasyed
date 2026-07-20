@@ -26,7 +26,7 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 <p align="center">
 I specialize in building <b>scalable web applications</b> that bridge solid backend architecture with real business workflows. I care about clean, maintainable code, performance-conscious design, and shipping software that actually solves problems — not just ships features.
@@ -59,7 +59,7 @@ I enjoy turning messy requirements into clean, working code
 
 <br/>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,7 +79,7 @@ I enjoy turning messy requirements into clean, working code
 
 <br/>
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
