@@ -57,29 +57,6 @@ I specialize in building **scalable web applications** that bridge solid backend
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sibghasyed&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=38BDF8&text_color=24292e&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibghasyed&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=24292e" width="35%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sibghasyed&theme=default&hide_border=true&background=ffffff&ring=2563EB&fire=38BDF8&currStreakLabel=2563EB" width="60%" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sibghasyed&theme=flat&no-frame=true&margin-w=8&row=1&column=6" />
-
-</div>
-
-<br/>
-
 ## 📬 Let's Connect
 
 <div align="center">
