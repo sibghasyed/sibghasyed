@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=220&section=header&text=Syeda%20Sibgha%20Fatima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20PHP%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+### Full Stack Developer &nbsp;|&nbsp; Laravel & PHP Specialist
 
 <a href="https://www.linkedin.com/in/sibgha-fatima-08030224a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -86,11 +86,5 @@ I enjoy turning messy requirements into clean, working code
 <a href="https://www.linkedin.com/in/sibgha-fatima-08030224a/">
   <img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:2563EB&height=120&section=footer" width="100%"/>
 
 </div>
